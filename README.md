@@ -1,1 +1,1 @@
-# clim-data-senega
+# clim-data-senegal
